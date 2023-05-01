@@ -38,4 +38,4 @@ A continuación te diremos cuales son los puntos que se tomarán en cuenta para 
 - El proyecto debe tener más de un commit.
 - La estructura de carpetas actual se debe respetar.
 - Las funciones dentro de los distintos modulos (`app.js`, `data.js` y `dom.js`) debe ir de acorde a su nombre.
-- El proyecto debe ser subido a GitHub y el enlace debe ser enviado para su revisión.
+- El proyecto debe ser subido a GitHub y el enlace debe ser enviado para su revisión.# lastprpject
